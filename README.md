@@ -1,5 +1,3 @@
-#### STEPS TO SETUP CLIENT APP:
-
 ### To Set up the Client App (WhiteBoard App)
 
 #### Step 1: Clone the repository
