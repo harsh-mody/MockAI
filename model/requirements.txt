@@ -1,0 +1,10 @@
+numpy==1.19.5
+Pillow==8.1.2
+Keras
+Flask==1.1.2
+matplotlib==3.3.4
+tensorflow
+h5py==2.10.0
+gunicorn
+itsdangerous==2.0.1
+Keras-Preprocessing
